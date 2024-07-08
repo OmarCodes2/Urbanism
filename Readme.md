@@ -1,4 +1,4 @@
-# Mesh Generator (Assignment #4 Walkthrough)
+# Mesh Generator
 
   - Author: Omar Bakr
 
